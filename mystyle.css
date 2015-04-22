@@ -1,0 +1,31 @@
+hr {color:blue;}
+.type1 {
+font-family: Helvetica,Arial,sans-serif;
+text-align:justify;
+}
+
+div.ex1
+{
+background-image:url('traintracks.png');
+background-repeat:repeat-y;
+
+}
+
+p.padding
+{
+padding-top:25px;
+padding-bottom:25px;
+padding-right:50px;
+padding-left:50px;
+}
+*/
+
+/* body { 
+background-image:url('gradient.png');
+background-repeat:no-repeat; /*Can use shorthand later*/
+}   
+*/  
+a:link {text-decoration:none;}    /* unvisited link */
+a:visited {text-decoration:none;} /* visited link */
+a:hover {text-decoration:underline;}   /* mouse over link */
+a:active {text-decoration:underline;}  /* selected link */
